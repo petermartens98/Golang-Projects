@@ -1,0 +1,19 @@
+body {
+    background-color: #d6efff;
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+ul li {
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+li:hover {
+    background-color: #f9f9f9;
+}
